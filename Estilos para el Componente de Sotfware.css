@@ -1,0 +1,215 @@
+*{margin: 0;
+padding: 0;
+
+	
+}
+	.cuerpo{
+	background-image: url("imágenes/fondo 4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+header{
+	display: inline-block;
+	height: 100px;;
+	text-align: center;
+	width: 100%;
+	color: #000000;
+	font-family: fantasy;
+	text-shadow: 2px 2px 2px #f3c332, 5px 5px gray;
+	border-radius: 100px;
+	border-color: #000000
+	
+}
+
+.barra{
+  width: 25%;
+  height: 100%;
+  float: left;
+  display: flex;
+  position: fixed;
+
+}
+
+.contenido{
+  width: 75%;
+  height: 100%;
+  float: right;
+  display: block;
+  position: relative;
+}
+
+.navbarlateral{
+  width: 225px;
+  background: #151719;
+  float: left;
+
+}
+
+img{
+	width: 80px;
+	height: 80px; 
+}
+
+.img-fluid{
+	width: 300px;
+	height: 300px;
+}
+
+.logobarbería{
+	display: inline-block;
+	float: left;
+}
+.titulo{
+	display: inline-block;
+	margin: 80px;
+	margin-top: 12px;
+	float: center;
+}
+.logoUPTA{
+	display: inline-block;
+	float: right;
+}
+
+h2{
+
+    background: linear-gradient(#FF7400,#F0AB3A);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.text{
+
+    background: linear-gradient(#FF7400,#F0AB3A);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.menúcitas{
+	background-color:#e1d9d9;
+	margin: 20px;
+	border-radius: 15px;
+	height: 400px; 
+	width: 500px;
+	float: center;
+}
+
+.menúiniciosección{
+	background-color:#e1d9d9;
+	margin: 20px;
+	border-radius: 15px;
+	height: 400px; 
+	width: 300px;
+	float: center;
+}
+
+.btn{
+	width: 150px;
+	height: 50px;
+}
+
+.menúformulariocitas{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 530px;
+	width:630px; 
+}
+.menúhorario{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 530px;
+	width: 700px;
+}
+
+.menúformulariocliente{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 550px
+}
+.menúformulariopagos{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 560px;
+}
+.menúformularioempleado{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 630px
+}
+.menúformularioservicio{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 520px
+}
+
+.tablascita{
+	border: 2px solid black;
+	border-collapse: collapse;
+	background-color: #ffff;
+}
+
+.menútablas{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 280px
+}
+
+.menúlistaempleados{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 300px
+}
+
+.menútablasdevoluciones{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 430px;
+}
+
+.tablascitatotal{
+	border-right: 2px black solid;
+	background-color: #ffff;
+}
+
+.menútablaspagos{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 380px;
+}
+.menútablasmodificaciónclientes{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 420px;
+}
+
+.menútablasmodificaciónempleados{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 470px;
+	width: 700PX;
+}
+
+.menútablasmodificaciónservicios{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 500px;
+}
+
+.menútablaslistadoservicio{
+	background-color:#e1d9d9;
+	border-radius: 15px;
+	height: 500px;
+}
+
+footer{
+
+	width: 100%;
+	background-color: #000000;
+	height: 70px;
+	color: #c0c0c0;
+	font-family: tines new roman;
+}
+
